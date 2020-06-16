@@ -1,0 +1,5 @@
+Guid,IsActive,Pricebook2Id,Product2Id,UnitPrice,UseStandardPrice
+0c0ebb8d-051c-43bf-88ed-503dba907779,true,bc5f50aa-3d7a-4f42-8998-d6b0ca67abe8,f81911d5-4980-49cc-a67f-6d15c8f7131f,100.0,false
+1a4cb886-6dc8-43e9-a913-efe41fd9e8e1,true,32f0a660-6ee7-4859-b81c-0c7a0635ba73,947ef157-ea70-4ee9-ae56-788b56cc78e9,200.0,false
+a3701e72-a5d2-48b2-bba1-8120d445d705,true,32f0a660-6ee7-4859-b81c-0c7a0635ba73,f81911d5-4980-49cc-a67f-6d15c8f7131f,200.0,false
+d1153c66-0137-409f-b0b7-1ca2e7e0085c,true,bc5f50aa-3d7a-4f42-8998-d6b0ca67abe8,947ef157-ea70-4ee9-ae56-788b56cc78e9,100.0,false
